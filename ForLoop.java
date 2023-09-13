@@ -15,7 +15,6 @@ public class ForLoop {
 }
 
 //What is a Loop 
-//vaishnavi
 // initiliazation , Condition, inc/dec
 
 //for loop                
